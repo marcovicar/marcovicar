@@ -21,6 +21,7 @@
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?marcovicar&layout=compact&langs_count=7&theme=dracula"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?marcovicar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	</div>
+	[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcovicar)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 ![Snake animation](https://github.com/marcovicar/marcovicar/blob/output/github-contribution-grid-snake.svg)
