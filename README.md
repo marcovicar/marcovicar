@@ -22,5 +22,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcovicar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcovicar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)	
 	
 ![Snake animation](https://github.com/marcovicar/marcovicar/blob/output/github-contribution-grid-snake.svg)
