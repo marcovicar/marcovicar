@@ -13,8 +13,8 @@
 	      <a href = "mailto:marcosvictormbi85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	      <a href="https://www.linkedin.com/in/marcos-victor-ara%C3%BAjo-ramos-79ba49182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a crazy lover of space and coffee!
 - 📈 Statistics:
 	<div>
 <a href="https://github.com/marcovicar">
