@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there, welcome to a little pice of my world! 👋
 
+🚀✨ To infinity and beyond
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
+<div>
+	<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank"></a>
+</div>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about everything i'm starving for new knowledge
 - 📫 How to reach me: 
   <div>
 	      <a href="https://instagram.com/marcovicar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
