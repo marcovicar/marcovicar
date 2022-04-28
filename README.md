@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning 
 <div>
            <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+	React Native
 </div>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
