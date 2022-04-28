@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=marcovicar)
+
 ### Hi there, welcome to a little pice of my world! 👋
 
 <h1>I am Marcos Victor</h1>
