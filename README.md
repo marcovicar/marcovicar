@@ -6,7 +6,7 @@
 
 🚀✨ To infinity and beyond
 
-WEEEEEEEEEEEeeeeeeeee
+Modigi
 
 
 - 💬 Ask me about everything i'm starving for new knowledge
