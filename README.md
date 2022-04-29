@@ -6,7 +6,7 @@
 
 🚀✨ To infinity and beyond
 
-uepaaaaaaaaaa
+que isso?!
 
 
 - 💬 Ask me about everything i'm starving for new knowledge
