@@ -6,6 +6,8 @@
 
 🚀✨ To infinity and beyond
 
+ebaaaaa
+
 
 - 💬 Ask me about everything i'm starving for new knowledge
 - 📫 How to reach me: 
