@@ -6,8 +6,6 @@
 
 🚀✨ To infinity and beyond
 
-Super Feliz!
-
 
 - 💬 Ask me about everything i'm starving for new knowledge
 - 📫 How to reach me: 
