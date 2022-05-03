@@ -4,9 +4,10 @@
 
 <h1>I am Marcos Victor</h1>
 
-🚀✨ To infinity and beyond
+⚠️ My portfolio it's beeing building, soon gonna be available here!!!
 
-My portfolio it's beeing building, soon gonna be available here!!!
+
+🚀✨ To infinity and beyond
 
 
 - 💬 Ask me about everything i'm starving for new knowledge
