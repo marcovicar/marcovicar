@@ -4,7 +4,7 @@
 
 <h1>I am Marcos Victor</h1>
 
-⚠️ <i>My portfolio it's beeing building, soon gonna be available here!!!</i>
+⚠️ <i style="color: #ffcc00;">My portfolio it's beeing building, soon gonna be available here!!!</i>
 
 
 🚀✨ To infinity and beyond
