@@ -6,8 +6,7 @@
 
 🚀✨ To infinity and beyond
 
-dsfasdfjijasdiofjasdf
-
+WATCH MoM ON THEATHERS MAY 5
 
 
 - 💬 Ask me about everything i'm starving for new knowledge
