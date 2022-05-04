@@ -20,6 +20,19 @@
   </div>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a crazy lover of space and coffee!
+- Languages and Technologies:
+<div>
+   <p>Frameworks:</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+
+   <p>Servers:</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40"/> 
+	
+   <p>Learning:</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+</div>
+
+
 - 📈 Statistics:
 	<div>
 <a href="https://github.com/marcovicar">
