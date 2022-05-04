@@ -52,7 +52,7 @@
    <p>Cloud:</p>
     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>
 	
-    <p>SO</p>
+    <p>SO:</p>
        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 	
    <p>Others:</p>
