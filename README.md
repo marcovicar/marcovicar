@@ -108,7 +108,7 @@
 
 </br>
 
-- 📈 Statistics:
+<h3>📈 Statistics:</h3>
 <div>
  <a href="https://github.com/marcovicar">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovicar&layout=compact&langs_count=7&theme=dracula"/>
