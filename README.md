@@ -10,28 +10,34 @@
 </div>
 
 ---
+<div>
+    <h3>📫 Contact me:</h3>
+	    <a href="https://instagram.com/marcovicar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	    <a href="https://www.twitch.tv/marcovicar" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+	    <a href = "mailto:marcosvictormbi85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	    <a href="https://www.linkedin.com/in/marcos-victor-ara%C3%BAjo-ramos-79ba49182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	    <a href="https://api.whatsapp.com/send?phone=5561999284206" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
-<h3>📫 How to reach me:</h3>
-  <div>
-	      <a href="https://instagram.com/marcovicar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	      <a href="https://www.twitch.tv/marcovicar" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-	      <a href = "mailto:marcosvictormbi85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	      <a href="https://www.linkedin.com/in/marcos-victor-ara%C3%BAjo-ramos-79ba49182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href="https://api.whatsapp.com/send?phone=5561999284206" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
+</br>
+<blockquote><h3><i>⚠️ My portfolio it's beeing building, soon gonna be available here!</i></h3></blockquote>
 
-⚠️ <i>My portfolio it's beeing building, soon gonna be available here!!!</i>
+</br>
+<h3>ℹ️ About me:</h3>
 
-
-🚀✨ To infinity and beyond
-
-
+<div>
+    <h2 align="center"><blockquote>Looking for a senior Front-End Developer Job.</blockquote></h2>
+    
+- 💻 Actually I'm working as Special Advisor on Government of Brasilia, Undersecretary of Public Budget (SUOP), as full-stack developer.
 - 💬 Ask me about everything i'm starving for new knowledge
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a crazy lover of space and coffee!
+- 🚀✨ To infinity and beyond
+</div>
 
+</br>
   
-- Languages and Technologies:
+<h3>👨🏽‍💻 Languages and Technologies:</h3>
 <div>
    <p>Frameworks:</p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
