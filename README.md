@@ -27,7 +27,7 @@
 
 <div>
     <h2 align="center"><blockquote>Looking for a senior Front-End Developer Job.</blockquote></h2>
-    
+-  👤 I have 21 years old, i live in Brasília - DF, Brazil.
 - 💻 Actually I'm working as Special Advisor on Government of Brasilia, Undersecretary of Public Budget (SUOP), as full-stack developer.
 - 💬 Ask me about everything i'm starving for new knowledge
 - 😄 Pronouns: He/Him
