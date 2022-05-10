@@ -105,7 +105,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
           
 </div>
-
 </br>
 
 <h3>📈 Statistics:</h3>
