@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello explorers, I am Marcos Victor</h1>
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> Hello explorers, I am Marcos Victor</h1>
 
 ![](https://komarev.com/ghpvc/?username=marcovicar)
 
