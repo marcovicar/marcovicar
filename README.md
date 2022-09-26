@@ -88,7 +88,7 @@
        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apple.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apple.svg" width="40" height="40" style="filter: invert(1);"/>
 	
    <p>IDEs:</p>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
