@@ -29,7 +29,7 @@
     <h2 align="center"><blockquote>Looking for a senior Front-End Developer Job.</blockquote></h2>
 	<ul>
 		<li> 👤 I have 22 years old, i live in Brasília - DF, Brazil.</li>
-		<li> 💻 Actually I'm working as Special Advisor on Government of Brasilia, Undersecretary of Public Budget (SUOP), as full-stack developer.</li>
+		<li> 💻 Actually I'm working as BackEnd PHP Pleno at Correio Brazilience, Brazil.</li>
 		<li> 💬 Ask me about everything, i'm starving for new knowledge</li>
 		<li> 😄 Pronouns: He/Him</li>
 		<li> ⚡ Fun fact: I'm a crazy lover of space and coffee!</li>
