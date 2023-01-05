@@ -26,7 +26,7 @@
 <h3>ℹ️ About me:</h3>
 
 <div>
-    <h2 align="center"><blockquote>Looking for a pleno Front-End Developer Job.</blockquote></h2>
+<!--     <h2 align="center"><blockquote>Looking for a pleno Front-End Developer Job.</blockquote></h2> -->
 	<ul>
 		<li> 👤 I have 22 years old, i live in Brasília - DF, Brazil.</li>
 		<li> 💻 Actually I'm working as BackEnd PHP Pleno at Correio Brazilience, Brazil.</li>
