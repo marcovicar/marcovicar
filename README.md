@@ -31,7 +31,6 @@
 		<li> 👤 I have 23 years old, i live in Brasília - DF, Brazil.</li>
 		<li> 💻 Actually I'm working as FrontEnd at SSLBrain, Portugal (Remote).</li>
 		<li> 💬 Ask me about everything, i'm starving for new knowledge</li>
-		<li> 😄 Pronouns: He/Him</li>
 		<li> ⚡ Fun fact: I'm a crazy lover of space and coffee!</li>
 		<li> 🚀✨ To infinity and beyond</li>
 	</ul>
