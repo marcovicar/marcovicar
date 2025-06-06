@@ -20,7 +20,7 @@
 </div>
 
 </br>
-<blockquote><h3><i>⚠️ My portfolio is under development, will soon be available here!</i></h3></blockquote>
+<blockquote><h3><i>🛠️ My portfolio is being polished! Coming soon with awesome projects 🚀</i></h3></blockquote>
 
 </br>
 <h3>ℹ️ About me:</h3>
