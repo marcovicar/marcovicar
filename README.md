@@ -29,7 +29,7 @@
 <!--     <h2 align="center"><blockquote>Looking for a pleno Front-End Developer Job.</blockquote></h2> -->
 	<ul>
 		<li> 👤 I'm 25 years old, I live in Porto, Portugal.</li>
-		<li> 💻 Actually I'm currently working as FrontEnd at SSLBrain, Portugal.</li>
+		<li> 💻 Actually I'm currently working as FrontEnd at TEAM.IT, Portugal.</li>
 		<li> 💬 Feel free to ask me anything — I'm always hungry for new knowledge!</li>
 		<li> ⚡ Fun fact: I'm a crazy lover of space and coffee!</li>
 		<li> 🚀✨ To infinity and beyond</li>
